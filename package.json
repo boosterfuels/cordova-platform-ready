@@ -1,8 +1,13 @@
 {
-  "name": "cordova-platofrm-ready",
+  "name": "cordova-platform-ready",
   "version": "1.0.0",
   "description": "A tiny module to fire callback after cordova finishes initializing.",
   "main": "index.js",
+  "keywords": [
+    "cordova",
+    "platform",
+    "initialize"
+  ],
   "scripts": {},
   "author": "",
   "repository" : {
